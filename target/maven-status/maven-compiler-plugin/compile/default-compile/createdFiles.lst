@@ -1,0 +1,4 @@
+com\starwars\FilesystemItemBase.class
+com\starwars\Folder.class
+com\starwars\File.class
+com\starwars\Main.class
